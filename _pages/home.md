@@ -10,6 +10,8 @@ paper: true
 acknowledgements: ""
 ---
 
+
+
 <br>
 <div class="row">
   <div class="col-xs-12">
@@ -24,6 +26,10 @@ acknowledgements: ""
 
 <hr>
 
+<h2>New ViGIL Session!</h2>
+    <p>
+https://vigilworkshop.github.io/
+    </p>
 <!-- <div class="row" id="intro"> -->
   <!-- <div class="col-md-12"> -->
     <!-- <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}"> -->
@@ -619,10 +625,17 @@ This workshop thus aims to gather people from various backgrounds - machine lear
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Previous sessions</h2>
+    <h2>Other ViGIL Sessions</h2>
   </div>
 </div>
 <a name="/prev_session"></a>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      <a href="https://vigilworkshop.github.io/">2019</a>
+    </p>
+  </div>
+</div>
 <div class="row">
   <div class="col-xs-12">
     <p>
@@ -630,6 +643,7 @@ This workshop thus aims to gather people from various backgrounds - machine lear
     </p>
   </div>
 </div>
+
 
 <div class="row">
   <div class="col-xs-12">
