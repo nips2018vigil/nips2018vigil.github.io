@@ -23,20 +23,18 @@ acknowledgements: ""
     </span></center>
   </div>
 </div>
-
+<br>
 <hr>
 
-<h2>New ViGIL Session!</h2>
-    <p>
-https://vigilworkshop.github.io/
-    </p>
-<!-- <div class="row" id="intro"> -->
-  <!-- <div class="col-md-12"> -->
-    <!-- <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}"> -->
-    <!-- <p> Image credit: [2, 28, 12, 11, 15-21, 26]</p> -->
-  <!-- </div> -->
-<!-- </div> -->
+<div class="row">
+  <div class="col-xs-12">
+    <center>
+      <h2>New ViGIL Session: <a href="https://vigilworkshop.github.io/">vigilworkshop.github.io</a></h2>
+    </center>
+  </div>
+</div>
 
+<hr>
 <br>
 <div class="row" id="intro">
   <div class="col-xs-12">
